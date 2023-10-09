@@ -1,7 +1,7 @@
 import grid from 'gridfs-stream';
 import mongoose from 'mongoose';
 
-const url = process.env.BASE_URL;
+const url = 'https://chandansr.onrender.com';
 
 
 let gfs, gridfsBucket;
